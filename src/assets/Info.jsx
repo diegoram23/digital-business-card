@@ -1,7 +1,7 @@
 import React from 'react'
 import portrait from './profile-card.svg'
-import email from './email.png'
-import linkedin from './linkedin.png'
+import email from './images/email.svg'
+import linkedin from './images/linkedin.svg'
 export default function Info() {
     return (
         <div className='info-container'>
